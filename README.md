@@ -18,10 +18,10 @@ Each day contains:
 
 ## Day 1 - 27 March 2026
 ### 🔹 SQL Query
-[Open SQL File](/2026-03-27/SQL_001.sql)
+[Open SQL File](27_March_26_SQL_001.sql)
 
 ### 🔹 Output Screenshot
-![SQL Output](/2026-03-27/SQL_001.png)
+![SQL Output](27_March_26_SQL_001.png)
 
 ---
 
