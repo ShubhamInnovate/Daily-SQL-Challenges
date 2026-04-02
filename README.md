@@ -25,44 +25,48 @@ Each day contains:
 
 ---
 
-## Day 2 - 28 March 2026
+## Day 2 - 2 April 2026
 ### 🔹 SQL Query
-[Open SQL File](./2026-03-28/SQL_002.sql)
+[Open SQL File](2026-04-02_SQL_002.sql)
 
 ### 🔹 Output Screenshot
-![SQL Output](./2026-03-28/SQL_002.png)
+![SQL Output](2026-04-02_SQL_002.png)
 
 ---
 
-## Day 3
+## Day 3 - 3 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-03_SQL_003.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-03_SQL_003.png)
 
 ---
 
-## Day 4
+## Day 4 - 4 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-04_SQL_004.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-04_SQL_004.png)
 
 ---
 
-## Day 5
+## Day 5 - 5 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-05_SQL_005.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-05_SQL_005.png)
 
 ---
 
-## Day 6
+## Day 2 - 2 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-02_SQL_002.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-02_SQL_002.png)
 
 ---
 
