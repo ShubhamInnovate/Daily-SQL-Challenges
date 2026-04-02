@@ -16,12 +16,12 @@ Each day contains:
 
 ## 📅 Daily Progress
 
-## Day 1 - 27 March 2026
+## Day 1 - 1 April 2026
 ### 🔹 SQL Query
-[Open SQL File](01_April_26_SQL_001.sql)
+[Open SQL File](2026-04-01_SQL_001.sql)
 
 ### 🔹 Output Screenshot
-![SQL Output](27_March_26_SQL_001.png)
+![SQL Output](2026-04-01_SQL_001.png)
 
 ---
 
