@@ -61,127 +61,230 @@ Each day contains:
 
 ---
 
-## Day 2 - 2 April 2026
+## Day 6 - 6 April 2026
 ### 🔹 SQL Query
-[Open SQL File](2026-04-02_SQL_002.sql)
+[Open SQL File](2026-04-06_SQL_006.sql)
 
 ### 🔹 Output Screenshot
-![SQL Output](2026-04-02_SQL_002.png)
+![SQL Output](2026-04-06_SQL_006.png)
 
 ---
 
-## Day 7
+## Day 7 - 7 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-07_SQL_007.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-07_SQL_007.png)
 
 ---
 
-## Day 8
+## Day 8 - 8 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-08_SQL_008.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-08_SQL_008.png)
 
 ---
 
-## Day 9
+## Day 9 - 9 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-09_SQL_009.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-09_SQL_009.png)
 
 ---
 
-## Day 10
+## Day 10 - 10 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-10_SQL_010.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-10_SQL_010.png)
 
 ---
 
-## Day 11
+## Day 11 - 11 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-11_SQL_011.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-11_SQL_011.png)
 
 ---
 
-## Day 12
+## Day 12 - 12 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-12_SQL_012.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-12_SQL_012.png)
 
 ---
 
-## Day 13
+## Day 13 - 13 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-13_SQL_013.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-13_SQL_013.png)
 
 ---
 
-## Day 14
+## Day 14 - 14 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-14_SQL_014.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-14_SQL_014.png)
 
 ---
 
-## Day 15
+## Day 15 - 15 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-15_SQL_015.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-15_SQL_015.png)
 
 ---
 
-## Day 16
+## Day 16 - 16 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-16_SQL_016.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-16_SQL_016.png)
 
 ---
 
-## Day 17
+## Day 17 - 17 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-17_SQL_017.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-17_SQL_017.png)
 
 ---
 
-## Day 18
+## Day 18 - 18 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-18_SQL_018.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-18_SQL_018.png)
 
 ---
 
-## Day 19
+## Day 19 - 19 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-19_SQL_019.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-19_SQL_019.png)
 
 ---
 
-## Day 20
+## Day 20 - 20 April 2026
 ### 🔹 SQL Query
-Will be uploaded
+[Open SQL File](2026-04-20_SQL_020.sql)
+
 ### 🔹 Output Screenshot
-Will be uploaded
+![SQL Output](2026-04-20_SQL_020.png)
 
 ---
 
+## Day 21 - 21 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-21_SQL_021.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-21_SQL_021.png)
+
+---
+
+## Day 22 - 22 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-22_SQL_022.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-22_SQL_022.png)
+
+---
+
+## Day 23 - 23 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-23_SQL_023.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-23_SQL_023.png)
+
+---
+
+## Day 24 - 24 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-24_SQL_024.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-24_SQL_024.png)
+
+---
+
+## Day 25 - 25 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-25_SQL_025.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-25_SQL_025.png)
+
+---
+
+## Day 26 - 26 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-26_SQL_026.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-26_SQL_026.png)
+
+---
+
+## Day 27 - 27 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-27_SQL_027.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-27_SQL_027.png)
+
+---
+
+## Day 28 - 28 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-28_SQL_028.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-28_SQL_028.png)
+
+---
+
+## Day 29 - 29 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-29_SQL_029.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-29_SQL_029.png)
+
+---
+
+## Day 30 - 30 April 2026
+### 🔹 SQL Query
+[Open SQL File](2026-04-30_SQL_030.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-04-30_SQL_030.png)
+
+---
 ## Day 21–100
 (continue same pattern)
 
