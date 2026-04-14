@@ -135,7 +135,7 @@ Each day contains:
 
 ## Day 14 - 14 April 2026
 ### 🔹 SQL Query
-[Open SQL File](2026-04-14_SQL_014.sql)
+[Open SQL File](2026-04-14_SQl)
 
 ### 🔹 Output Screenshot
 ![SQL Output](2026-04-14_SQL_014.png)
