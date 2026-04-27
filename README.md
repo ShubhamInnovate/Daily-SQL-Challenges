@@ -255,7 +255,7 @@ Each day contains:
 [Open SQL File](2026-04-27_SQL_027.sql)
 
 ### 🔹 Output Screenshot
-![SQL Output](2026-04-27_SQL_027.png)
+![SQL Output](2026-04-0027_SQL_027.png)
 
 ---
 
