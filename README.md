@@ -259,7 +259,7 @@ Each day contains:
 
 ---
 
-## Day 28 - 28 April 2026
+## Day 28 - 028 April 2026
 ### 🔹 SQL Query
 [Open SQL File](2026-04-28_SQL_028.sql)
 
