@@ -270,7 +270,7 @@ Each day contains:
 
 ## Day 29 - 29 April 2026
 ### 🔹 SQL Query
-[Open SQL File](2026-04-29_SQL_029.sql)
+[Open SQL File](2026-04-29_SQL_0029.sql)
 
 ### 🔹 Output Screenshot
 ![SQL Output](2026-04-29_SQL_029.png)
