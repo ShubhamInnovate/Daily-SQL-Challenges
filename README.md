@@ -350,7 +350,7 @@ Each day contains:
 
 ### 🔹 SQL Query
 
-[Open SQL File](2026-05-06_SQL_036.sql)
+[Open SQL File](2026-05-006_SQL_036.sql)
 
 ### 🔹 Output Screenshot
 
